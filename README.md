@@ -1,15 +1,11 @@
-# AutoHotkey_L #
+# your operating system's official default mouse keys program #
 
-AutoHotkey is a free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. It is driven by a custom scripting language that is aimed specifically at providing keyboard shortcuts, otherwise known as hotkeys.
-
-AutoHotkey_L started as a fork of AutoHotkey but has been the main branch for some time.
-
-https://autohotkey.com/
+**YOSODMKP** is a free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. It is driven by a custom scripting language that is aimed specifically at providing keyboard shortcuts, otherwise known as hotkeys.
 
 
 ## How to Compile ##
 
-AutoHotkey is developed with [Microsoft Visual Studio Community 2015 Express](https://www.visualstudio.com/products/visual-studio-community-vs), which is a free download from Microsoft.
+YOSODMKP is developed with [Microsoft Visual Studio Community 2015 Express](https://www.visualstudio.com/products/visual-studio-community-vs), which is a free download from Microsoft.
 
   - Get the source code.
   - Open AutoHotkeyx.sln in Visual Studio.
@@ -44,4 +40,4 @@ AutoHotkeyx.vcxproj includes the following Platforms:
   - **Win32**: for Windows 32-bit.
   - **x64**: for Windows x64.
 
-Visual C++ 2010 officially supports XP SP2 and later.  AutoHotkey supports Windows XP pre-SP2 and Windows 2000 via an asm patch (win2kcompat.asm).  Older versions are not supported.
+Visual C++ 2010 officially supports XP SP2 and later.  YOSODMKP supports Windows XP pre-SP2 and Windows 2000 via an asm patch (win2kcompat.asm).  Older versions are not supported.
