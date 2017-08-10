@@ -1,4 +1,4 @@
-# YOSODMKP - your operating system's official default mouse keys program#
+# YOSODMKP # - ## your operating system's official default mouse keys program ##
 
 **Short for:** `your operating system's official default mouse keys program`
 
