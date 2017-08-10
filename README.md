@@ -1,6 +1,6 @@
-# YOSODMKP # - ## your operating system's official default mouse keys program ##
+# your operating system's official default mouse keys program #
 
-**Short for:** `your operating system's official default mouse keys program`
+**YOSODMKP for short.**
 
 **YOSODMKP** is a free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. It is driven by a custom scripting language that is aimed specifically at providing keyboard shortcuts, otherwise known as hotkeys.
 
