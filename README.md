@@ -1,13 +1,13 @@
 # your operating system's official default mouse keys program #
 
-**YOSODMKP for short.**
+**Acronym:** YOSODMKP
 
 **YOSODMKP** is a free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. It is driven by a custom scripting language that is aimed specifically at providing keyboard shortcuts, otherwise known as hotkeys.
 
 
 ## How to Compile ##
 
-YOSODMKP is developed with [Microsoft Visual Studio Community 2015 Express](https://www.visualstudio.com/products/visual-studio-community-vs), which is a free download from Microsoft.
+**YOSODMKP** is developed with [Microsoft Visual Studio Community 2015 Express](https://www.visualstudio.com/products/visual-studio-community-vs), which is a free download from Microsoft.
 
   - Get the source code.
   - Open AutoHotkeyx.sln in Visual Studio.
